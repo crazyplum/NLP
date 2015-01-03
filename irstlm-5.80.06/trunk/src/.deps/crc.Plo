@@ -1,0 +1,3 @@
+crc.lo: crc.cpp crc.h
+
+crc.h:
